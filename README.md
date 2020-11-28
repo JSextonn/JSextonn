@@ -1,5 +1,5 @@
 ```python
-class Persona:
+class Profile:
     name = 'Justin Sexton'
     location = 'Houston, United States'
     website = 'https://justinsexton.net'
