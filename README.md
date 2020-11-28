@@ -3,6 +3,7 @@ class Persona:
     name = 'Justin Sexton'
     location = 'Houston, United States'
     website = 'https://justinsexton.net'
+    email = 'justinsexton.dev@gmail.com'
     degree = 'Bachelors of Computer Science'
     
     
