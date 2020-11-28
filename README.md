@@ -1,16 +1,16 @@
-### Hi there 👋
+```python
+class Persona:
+    name = 'Justin Sexton'
+    location = 'Houston, United States'
+    website = 'https://justinsexton.net'
+    degree = 'Bachelors of Computer Science'
+    
+    
+class Skills:
+    languages = ['Java', 'Kotlin', 'Python', 'C#', 'JavaScript', 'TypeScript']
+    web_frameworks = ['Spring', 'ASP.NET', 'Chalice', 'Flask', 'Django']
+    front_end_frameworks = ['React']
+    storage = ['MySQL', 'PL/SQL', 'MongoDB', 'DynamoDB', 'Cassandra']
+    message_queues = ['Kafka']
+```
 
-<!--
-**JSextonn/JSextonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
