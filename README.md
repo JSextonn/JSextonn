@@ -13,7 +13,7 @@ class Profile:
     
     
 class Skills:
-    languages = ['Java', 'Kotlin', 'Python', 'C#', 'JavaScript', 'TypeScript']
+    languages = ['Java', 'Kotlin', 'Python', 'C#', 'JavaScript', 'TypeScript', 'Rust']
     web_frameworks = ['Spring', 'ASP.NET', 'Chalice', 'Flask', 'Django']
     front_end_frameworks = ['React']
     storage = ['MySQL', 'PL/SQL', 'MongoDB', 'DynamoDB', 'Cassandra']
